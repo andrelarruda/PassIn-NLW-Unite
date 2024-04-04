@@ -1,0 +1,11 @@
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.deps.json
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.dll
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.pdb
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.AssemblyInfoInputs.cache
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.AssemblyInfo.cs
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.csproj.CoreCompileInputs.cache
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.dll
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\obj\Debug\net8.0\refint\PassIn.Communication.dll
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.pdb
+D:\Code\.NET\NLW Unite\PassIn\PassIn.Communication\obj\Debug\net8.0\ref\PassIn.Communication.dll
